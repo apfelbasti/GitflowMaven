@@ -27,9 +27,9 @@
 			<plugin>
 				<groupId>com.amashchenko.maven.plugin</groupId>
 				<artifactId>gitflow-maven-plugin</artifactId>
-				<configuration>
+				<!-- configuration>
 					<tychoBuild>true</tychoBuild>
-				</configuration>
+				</configuration -->
 			</plugin>
 		</plugins>
 	</build>
